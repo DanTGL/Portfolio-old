@@ -1,0 +1,6 @@
+-   title: Flower Site
+    category: Web Development
+    img: img/portfolio/florist.png
+    modalID: modalFlowers
+    description:
+    -   This is a fake flower site I and a couple of other people improved upon for a school project. We added better phone compatability and noscript-support.
