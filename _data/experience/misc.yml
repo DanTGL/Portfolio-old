@@ -1,0 +1,10 @@
+name: Miscellaneous
+
+list:
+  - name: OpenGL
+  - name: HTML5/CSS3
+  - name: Assembler (6502, x86)
+  - name: FPGA
+  - name: SCRUM
+  - name: Pair programming
+  - name: Linux
