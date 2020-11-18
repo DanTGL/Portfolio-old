@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flower Shop Website"
-date:   2020-09
+date:   2020-09-21
 img: img/portfolio/florist.png
 modalID: modalFlowerShop
 category: Web development
