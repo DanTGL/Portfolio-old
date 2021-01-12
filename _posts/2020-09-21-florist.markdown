@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Flower Shop Website"
-date:   2020-09-21
-img: img/portfolio/florist.png
-modalID: modalFlowerShop
-category: Web development
----
-This is a website for a fake flower shop that I and a couple of other people worked on for a school project.
