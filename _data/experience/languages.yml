@@ -1,9 +1,11 @@
 name: Programming Languages
 
 list:
+  - name: Rust
   - name: C#
   - name: C/C++
   - name: Java
   - name: Javascript
   - name: Python
   - name: Verilog/SystemVerilog
+  - name: Assembler (6502, x86)
